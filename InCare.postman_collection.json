@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "fb37b8e4-6e1c-4a72-83b3-7d070fa609b2",
+		"name": "InCare",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Suggestion",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Accuracy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
